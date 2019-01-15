@@ -1,0 +1,13 @@
+{
+  "name": "testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "start": "node teste.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
