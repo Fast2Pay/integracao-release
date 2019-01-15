@@ -1,0 +1,1 @@
+# Repositorio exclusivo para atualizações do Integrador da Fast2Pay
